@@ -12,6 +12,9 @@
 
 ## functions
 create acc
+
 login 
+
 std1
+
 std2
